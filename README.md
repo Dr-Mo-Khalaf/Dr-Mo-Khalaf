@@ -6,7 +6,7 @@
 ## Programming languages:
 C/C++, Python, HTML, PHP, SQL,.....
 ## Frameworks:
-TensorFlow, PyTorch, Django,..
+ PyTorch, TensorFlow, Ultralytics..
 ## Tools:
 Git, Docker,..
 ## Skills and Experience: ##
@@ -25,7 +25,7 @@ Let's work together to build a brighter future!
 ## Hobbies:
 Coding
 Reading 
-Learning new languages
+Learning
 Teaching
 
 
