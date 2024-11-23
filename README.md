@@ -18,7 +18,7 @@ Leveraging data science techniques for insights and decision-making
 ## I'm interested in:
 
 Collaborating with talented individuals to solve challenging problems
-Exploring new technologies and emerging trends in AI and ML
+Exploring new technologies and emerging trends in AI , DL , and ML
 Contributing to projects that have a positive impact on society
 Let's work together to build a brighter future!
 
