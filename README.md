@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dr Mohammed Khalaf
-- 👀 With over 15 years of experience in DevOps, AI, Machine Learning, Deep Learning, full-stack development, and embedded systems, I am a dedicated technologist passionate about driving innovation and creating cutting-edge solutions.
+- 👀 With over 15 years of experience in DevOps, AI, ML Machine Learning, DL Deep Learning, NLP, full-stack development, and embedded systems, I am a dedicated technologist passionate about driving innovation and creating cutting-edge solutions.
 
 **Proficient in:**
 
