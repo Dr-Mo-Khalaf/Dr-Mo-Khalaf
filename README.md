@@ -9,6 +9,7 @@ C/C++, Python, HTML, PHP, SQL,.....
  PyTorch, TensorFlow, Ultralytics..
 ## Tools:
 Git, Docker,..
+Visualization Tools: Tableau, Matplotlib, Seaborn
 
 ## Skills and Experience:
 ### Leadership & Management:
