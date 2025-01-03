@@ -16,17 +16,15 @@ Developing embedded systems and IoT solutions
 Building scalable web applications
 Leveraging data science techniques for insights and decision-making
 ## I'm interested in:
-
-Collaborating with talented individuals to solve challenging problems
-Exploring new technologies and emerging trends in AI , DL , and ML
-Contributing to projects that have a positive impact on society
-Let's work together to build a brighter future!
-
+Lead and mentor high-performing teams of data scientists and engineers in solving complex data challenges.
+Foster a culture of innovation and exploration within the cutting-edge fields of AI, Deep Learning, and Machine Learning.
+Drive impactful data science projects that address critical societal needs and align with organizational goals and objectives.
+Collaborate effectively with stakeholders across departments to ensure project success and deliver measurable results against key performance indicators (KPIs).
 ## Hobbies:
-Coding
-Reading 
-Learning
-Teaching
+Continuous Learning: Exploring cutting-edge advancements in AI/ML, data science, and related technologies.
+Mentorship & Development: Guiding and inspiring the growth of data professionals.
+Personal Machine Learning Projects: Developing and experimenting with ML models to enhance analytical and problem-solving skills.
+Data Visualization: Creating insightful and engaging data visualizations to effectively communicate complex information.
 
 
 <!---
