@@ -22,9 +22,9 @@ Designing, developing, and deploying complex AI/ML models (e.g., predictive mode
 Strong understanding of data science methodologies (e.g., data mining, statistical analysis, machine learning algorithms)
 Experience with data cleaning, preprocessing, feature engineering, and model evaluation
 ### Data-Driven Decision Making:
-Translating data insights into actionable business strategies
-Communicating complex technical concepts to both technical and non-technical audiences
-Driving data-informed decision-making across the organization
+- Translating data insights into actionable business strategies
+- Communicating complex technical concepts to both technical and non-technical audiences
+- Driving data-informed decision-making across the organization
 
 ## I'm interested in:
 Lead and mentor high-performing teams of data scientists and engineers in solving complex data challenges.
@@ -32,10 +32,10 @@ Lead and mentor high-performing teams of data scientists and engineers in solvin
 - Drive impactful data science projects that address critical societal needs and align with organizational goals and objectives.
 - Collaborate effectively with stakeholders across departments to ensure project success and deliver measurable results against key performance indicators (KPIs).
 ## Hobbies:
-Continuous Learning: Exploring cutting-edge advancements in AI/ML, data science, and related technologies.
-Mentorship & Development: Guiding and inspiring the growth of data professionals.
-Personal Machine Learning Projects: Developing and experimenting with ML models to enhance analytical and problem-solving skills.
-Data Visualization: Creating insightful and engaging data visualizations to effectively communicate complex information.
+- Continuous Learning: Exploring cutting-edge advancements in AI/ML, data science, and related technologies.
+- Mentorship & Development: Guiding and inspiring the growth of data professionals.
+- Personal Machine Learning Projects: Developing and experimenting with ML models to enhance analytical and problem-solving skills.
+- Data Visualization: Creating insightful and engaging data visualizations to effectively communicate complex information.
 
 
 <!---
