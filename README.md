@@ -9,12 +9,22 @@ C/C++, Python, HTML, PHP, SQL,.....
  PyTorch, TensorFlow, Ultralytics..
 ## Tools:
 Git, Docker,..
-## Skills and Experience: ##
-Leading and mentoring high-performing development teams
-Designing and implementing complex AI/ML models
-Developing embedded systems and IoT solutions
-Building scalable web applications
-Leveraging data science techniques for insights and decision-making
+
+## Skills and Experience:
+### Leadership & Management:
+Leading and mentoring high-performing data science teams
+Project management and execution, including Agile methodologies
+Resource allocation, budget management, and stakeholder communication
+Building and fostering a collaborative and high-performing team culture
+### Data Science & AI/ML:
+Designing, developing, and deploying complex AI/ML models (e.g., predictive modeling, computer vision, natural language processing)
+Strong understanding of data science methodologies (e.g., data mining, statistical analysis, machine learning algorithms)
+Experience with data cleaning, preprocessing, feature engineering, and model evaluation
+### Data-Driven Decision Making:
+Translating data insights into actionable business strategies
+Communicating complex technical concepts to both technical and non-technical audiences
+Driving data-informed decision-making across the organization
+
 ## I'm interested in:
 Lead and mentor high-performing teams of data scientists and engineers in solving complex data challenges.
 Foster a culture of innovation and exploration within the cutting-edge fields of AI, Deep Learning, and Machine Learning.
