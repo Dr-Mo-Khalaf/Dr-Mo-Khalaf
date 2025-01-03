@@ -28,9 +28,9 @@ Driving data-informed decision-making across the organization
 
 ## I'm interested in:
 Lead and mentor high-performing teams of data scientists and engineers in solving complex data challenges.
-. Foster a culture of innovation and exploration within the cutting-edge fields of AI, Deep Learning, and Machine Learning.
-. Drive impactful data science projects that address critical societal needs and align with organizational goals and objectives.
-. Collaborate effectively with stakeholders across departments to ensure project success and deliver measurable results against key performance indicators (KPIs).
+- Foster a culture of innovation and exploration within the cutting-edge fields of AI, Deep Learning, and Machine Learning.
+- Drive impactful data science projects that address critical societal needs and align with organizational goals and objectives.
+- Collaborate effectively with stakeholders across departments to ensure project success and deliver measurable results against key performance indicators (KPIs).
 ## Hobbies:
 Continuous Learning: Exploring cutting-edge advancements in AI/ML, data science, and related technologies.
 Mentorship & Development: Guiding and inspiring the growth of data professionals.
