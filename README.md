@@ -1,16 +1,16 @@
 - 👋 Hi, I’m Dr Mohammed Khalaf
-- 👀 With over 15 years of experience in DevOps, AI, ML Machine Learning, DL Deep Learning, NLP, DataScience, full-stack development, and embedded systems, I am a dedicated technologist passionate about driving innovation and creating cutting-edge solutions.
+- 👀 With over 10 years of experience in AI, Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Data Science, full-stack development, and System Design, I bring a strong background in building and leading high-performance teams to drive innovative, data-driven solutions. As a passionate technologist and strategic leader, I specialize in leveraging advanced analytics and cutting-edge technologies to solve complex business challenges and deliver measurable impact. My expertise spans from hands-on technical execution to guiding cross-functional teams in the successful design and deployment of scalable data-driven systems.
 
 **Proficient in:**
 
 ## Programming languages:
-C/C++, Python, HTML, PHP, SQL,.....
+ Python, c++, HTML, PHP, SQL,.....
 ## Frameworks:
- PyTorch, TensorFlow, Ultralytics..
+ PyTorch, TensorFlow, Ultralytics, HuggingFace..
 ## Tools:
 Git, Docker,..
 Visualization Tools: Tableau, Matplotlib, Seaborn
-
+.....
 ## Skills and Experience:
 ### Leadership & Management:
 Leading and mentoring high-performing data science teams
