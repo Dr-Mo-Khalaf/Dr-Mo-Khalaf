@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dr Mohammed Khalaf
+- 👋 Hi, I’m Dr Mohammed Khalaf Salama
 - 👀 With over 10 years of experience in AI, Machine Learning, Deep Learning, and distributed system design, I architect and deliver production-grade AI platforms with a strong focus on LLM-powered and agentic systems. My expertise includes designing multi-agent architectures, orchestrator frameworks (LangChain, LangGraph, custom orchestration layers), and MCP-based integrations for modular and extensible AI ecosystems.
 
 I have extensive experience building Retrieval-Augmented Generation (RAG) pipelines using vector databases such as Pinecone and ChromaDB, implementing semantic search, embedding optimization, and scalable vector indexing strategies. I design end-to-end AI systems that incorporate guardrails, policy enforcement, safety validation, observability, and evaluation frameworks to ensure reliability, compliance, and robustness in enterprise environments.
